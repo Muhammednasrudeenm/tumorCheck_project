@@ -1,4 +1,4 @@
-# MRI Tumor Detection
+# Tumor Check
 
 This project is a **Brain Tumor Detection Web App** built using **Flask (Python Backend) and React (Frontend)**. It allows users to upload MRI images and classify them into four categories: `glioma`, `meningioma`, `notumor`, and `pituitary`.
 
