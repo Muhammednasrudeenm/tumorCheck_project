@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Since `.h5` model files are too large for GitHub, they are not included in the repository. The Flask app will automatically download the model when it runs.
 
 ```python
-FILE_ID = "1DdZcp5DruoPU2T9ZdH34c37dYBvn9K9k"  # Replace with your actual file ID
+FILE_ID = "1DdZcp5DruoPU2T9ZdH34c37dYBvn9K9k" 
 MODEL_PATH = "brain_tumor_model.h5"
 
 if not os.path.exists(MODEL_PATH):
